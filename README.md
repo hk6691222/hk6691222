@@ -1,4 +1,4 @@
-![full-stack-development](https://user-images.githubusercontent.com/105595540/212469547-27e4c290-983d-4544-8266-60efd135ae41.gif)
+<img src="https://user-images.githubusercontent.com/105595540/212469547-27e4c290-983d-4544-8266-60efd135ae41.gif" width="100%" />
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="hk6691222" width="40" />, I'm Himanshu Kumar </h1>
 <h3 align="center">A passionate frontend developer 💻 from India 🚀</h3>
