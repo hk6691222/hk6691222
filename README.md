@@ -35,9 +35,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/105595540/212469688-bf0eeb3e-ca29-4ec0-b32b-1e65cf85bb0e.gif" width="450" height="350" />
 <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350" />
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<hr>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hk6691222&show_icons=true&locale=en&layout=compact" alt="hk6691222" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hk6691222&show_icons=true&locale=en" alt="hk6691222" /></p>
