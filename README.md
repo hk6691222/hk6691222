@@ -5,8 +5,6 @@
 <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400">
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="350">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hk6691222&label=Profile%20views&color=0e75b6&style=flat" alt="hk6691222" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hk6691222" alt="hk6691222" /></a> </p>
 
 - 🔭 I’m currently working on improving myself :)
