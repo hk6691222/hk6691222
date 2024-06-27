@@ -30,7 +30,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/105595540/212469688-bf0eeb3e-ca29-4ec0-b32b-1e65cf85bb0e.gif" width="460" height="400" />
 <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="380" height="400" />
-<br>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hk6691222&label=Profile%20views&color=0e75b6&style=flat" alt="hk6691222" /> </p>
 
