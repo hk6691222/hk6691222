@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hk6691222&label=Profile%20views&color=0e75b6&style=flat" alt="hk6691222" /> </p>
 <img src="https://user-images.githubusercontent.com/105595540/212469547-27e4c290-983d-4544-8266-60efd135ae41.gif" width="100%" />
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="hk6691222" width="40" />, I'm Himanshu Kumar </h1>
@@ -34,6 +33,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hk6691222&label=Profile%20views&color=0e75b6&style=flat" alt="hk6691222" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hk6691222" alt="hk6691222" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
