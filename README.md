@@ -1,11 +1,10 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hk6691222&label=Profile%20views&color=0e75b6&style=flat" alt="hk6691222" /> </p>
 <img src="https://user-images.githubusercontent.com/105595540/212469547-27e4c290-983d-4544-8266-60efd135ae41.gif" width="100%" />
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="hk6691222" width="40" />, I'm Himanshu Kumar </h1>
 <h3 align="center">A passionate frontend developer 💻 from India 🚀</h3>
 <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400">
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="350">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hk6691222&label=Profile%20views&color=0e75b6&style=flat" alt="hk6691222" /> </p>
 
 - 🔭 I’m currently working on improving myself :)
 
