@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hk6691222@gmail.com**
 
-- ⚡ Fun fact **I love to attend Meetups for learning new technologies & Conferences for Networking**
+- ⚡ Fun fact **I love to attend Meetups, Workshops for learning new things & Conferences for Networking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
