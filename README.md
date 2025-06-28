@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on improving myself :)
 
-- 👨‍💻 I’m currently learning **Nextjs & MERN**
+- 👨‍💻 I’m currently learning **React+Redux & Nextjs**
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
